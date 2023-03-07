@@ -52,7 +52,7 @@
 ## Tecnologias Utilizadas
 
 * SQL
-* MysQL
+* MySQL
 
 ---
 
